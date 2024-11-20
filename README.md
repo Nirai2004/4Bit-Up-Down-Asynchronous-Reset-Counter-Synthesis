@@ -74,8 +74,8 @@ used.
 #### Power Report:
 ![Screenshot (27)](https://github.com/user-attachments/assets/fb2640b1-ac0a-4be4-a4ef-42f6bd950cde)
 
-
-
+#### timing report
+![Screenshot 2024-11-21 010016](https://github.com/user-attachments/assets/c9f6366c-4e4d-42b6-84db-458661a64e9e)
 
 
 #### Result: 
